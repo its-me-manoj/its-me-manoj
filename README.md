@@ -76,6 +76,7 @@
   </p>
 </div>
 <br>
+<br>
 
 <h2> Operating System 🐧 </h2>
 <br>
@@ -88,7 +89,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 </p>
-<hr>
+<br>
 <br>
 
 <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> </h2>
@@ -100,13 +101,24 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=its-me-manoj&theme=graywhite&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-me-manoj&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
-
+<br>
 
 <details>
   <summary><b>⚡ GitHub Activity</b></summary>
-  <img src="" />
+  <img src="github-user-contribution.svg" />
 
 </details>
+<br>
+<br>
+
+## Connect with me  🤝
+
+<p align="center">
+	<a href=" https://www.linkedin.com/in/manoj-kumar-6939a823b" target="_blank"><img src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" width="50px" /></a>
+        <a href="https://github.com/its-me-manoj" target="_blank"><img src="https://img.icons8.com/?size=512&id=iEBcQcM9rnZ9&format=png" width="60px" /></a>
+        <a herf="https://app.hackthebox.com/profile/1496377" target="_blank"><img src="http://www.hackthebox.eu/badge/image/1496377" alt="Hack The Box"></a>
+        <a href="https://instagram.com/415_f0und?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.icons8.com/?size=512&id=YtpeVQhQ8USm&format=png" width="60px" /></a>
+
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
