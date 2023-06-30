@@ -16,7 +16,7 @@
 - 💬 Talk to me about Ethical hacking, CTF Challenges, Machine Learning and Data Analysisng 
 - 👯 I am looking to connect with Experts in this field. 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
 <br>
 <div>
   <p style="display: inline-block;" align="center">
@@ -90,7 +90,23 @@
 </p>
 <hr>
 <br>
+
+<h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> </h2>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
 	
+![](https://github-readme-stats.vercel.app/api?username=its-me-manoj&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=its-me-manoj&theme=graywhite&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-me-manoj&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</details>
 
 
-------------------------------------------------------------------------------
+<details>
+  <summary><b>⚡ GitHub Activity</b></summary>
+  <img src="" />
+
+</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
