@@ -11,8 +11,8 @@
 
 
 - 👋 Hi, I’m Student in Sri Eshwar College of Engineering
-- 💼 I'm a self-taught in Cyber Security and Web Developer
-- 💬 Talk to me about Ethical hacking, CTF Challenges, Software Development
+- 💼 I'm a self-taught in Data Analystics and ML
+- 💬 Talk to me about Data Science, Generative AI, Software Development
 - 👯 I am looking to connect with Experts in this field. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
